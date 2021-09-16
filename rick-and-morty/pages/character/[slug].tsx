@@ -3,6 +3,7 @@ import IntroTemplate from '../../src/components/_templates/Intro';
 
 const CharacterPage: NextPage = () => {
   return <IntroTemplate title="Rick and Morty FE Tech Test" />;
+//   testing comment 
 };
 
 export default CharacterPage;
